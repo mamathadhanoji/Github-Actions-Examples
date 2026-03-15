@@ -10,7 +10,7 @@ on:
 
 jobs:
   hello_world:
-    permissions: {}
+    
     runs-on: ubuntu-latest
     steps:
       - name: "Echo Basic Information"
